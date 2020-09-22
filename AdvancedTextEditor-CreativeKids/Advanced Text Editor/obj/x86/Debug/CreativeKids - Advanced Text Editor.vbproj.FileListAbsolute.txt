@@ -1,0 +1,13 @@
+D:\youtube\adv txt\Advanced Text Editor\bin\Debug\CreativeKids - Advanced Text Editor.exe
+D:\youtube\adv txt\Advanced Text Editor\bin\Debug\CreativeKids - Advanced Text Editor.pdb
+D:\youtube\adv txt\Advanced Text Editor\bin\Debug\CreativeKids - Advanced Text Editor.xml
+D:\youtube\adv txt\Advanced Text Editor\bin\Debug\NetSpell.SpellChecker.xml
+D:\youtube\adv txt\Advanced Text Editor\obj\x86\Debug\CreativeKids___Advanced_Text_Editor.AboutForm.resources
+D:\youtube\adv txt\Advanced Text Editor\obj\x86\Debug\CreativeKids___Advanced_Text_Editor.FindTextForm.resources
+D:\youtube\adv txt\Advanced Text Editor\obj\x86\Debug\CreativeKids___Advanced_Text_Editor.Form1.resources
+D:\youtube\adv txt\Advanced Text Editor\obj\x86\Debug\CreativeKids___Advanced_Text_Editor.Resources.resources
+D:\youtube\adv txt\Advanced Text Editor\obj\x86\Debug\CreativeKids___Advanced_Text_Editor.SplashScreen1.resources
+D:\youtube\adv txt\Advanced Text Editor\obj\x86\Debug\CreativeKids - Advanced Text Editor.vbproj.GenerateResource.Cache
+D:\youtube\adv txt\Advanced Text Editor\obj\x86\Debug\CreativeKids - Advanced Text Editor.exe
+D:\youtube\adv txt\Advanced Text Editor\obj\x86\Debug\CreativeKids - Advanced Text Editor.xml
+D:\youtube\adv txt\Advanced Text Editor\obj\x86\Debug\CreativeKids - Advanced Text Editor.pdb
